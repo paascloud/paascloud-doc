@@ -10,14 +10,14 @@
     阿里云短信服务是收费的，都是目前java前瞻性的框架，可以为中小企业解决微服务架构难题，可以帮助企业快速建站。由于服务
     器成本较高，尽量降低开发成本的原则，本项目由10个后端项目和3个前端项目共同组成。真正实现了基于RBAC、jwt和oauth2的
     无状态统一权限认证的解决方案，实现了异常和日志的统一管理，实现了MQ落地保证100%到达的解决方案。
-	
-	核心框架：springcloud Edgware全家桶
-	安全框架：Spring Security Spring Cloud Oauth2
-	分布式任务调度：elastic-job
-	持久层框架：MyBatis、通用Mapper4、Mybatis_PageHelper
-	数据库连接池：Alibaba Druid
-	日志管理：Logback	前端框架：Vue全家桶以及相关组件
-	三方服务： 邮件服务、阿里云短信服务、七牛云文件服务、钉钉机器人服务、高德地图API
+
+    核心框架：springcloud Edgware全家桶
+    安全框架：Spring Security Spring Cloud Oauth2
+    分布式任务调度：elastic-job
+    持久层框架：MyBatis、通用Mapper4、Mybatis_PageHelper
+    数据库连接池：Alibaba Druid
+    日志管理：Logback    前端框架：Vue全家桶以及相关组件
+    三方服务： 邮件服务、阿里云短信服务、七牛云文件服务、钉钉机器人服务、高德地图API
 ```
 
 ### 平台目录结构说明
@@ -104,6 +104,15 @@
 
 ```
 Spring Cloud 爱好者,现就任于鲜易供应链平台研发部.
+```
+
+### 配套项目
+
+```
+后端项目：https://github.com/paascloud/paascloud-master
+登录入口：https://github.com/paascloud/paascloud-login-web
+后端入口：https://github.com/paascloud/paascloud-admin-web
+前端入口：https://github.com/paascloud/paascloud-mall-web
 ```
 
 ### 传送门
