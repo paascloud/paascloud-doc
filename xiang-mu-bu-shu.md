@@ -89,17 +89,5 @@ server {
 5. 剩下微服务无启动数序要求
 ```
 
-# 数据库脚本和三方Jar包
-
-csdn最低上传是2分，大家见谅！
-
-```
-https://download.csdn.net/download/liu_zhaoming/10296447
-```
-
-
-
-
-
 
 
