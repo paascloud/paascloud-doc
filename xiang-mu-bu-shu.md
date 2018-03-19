@@ -48,7 +48,7 @@ server {
     location / {
         proxy_pass http://localhost:7010;
     }
-    
+
     error_page   500 502 503 504  /50x.html;
     location = /50x.html {
         root   html;
@@ -67,15 +67,15 @@ server {
     }
 }
 server {
-	listen       80;
-	server_name  dev-api.paascloud.net;
-	location ~ {
-		proxy_pass   http://localhost:7979;
-	}
-	error_page   500 502 503 504  /50x.html;
-	location = /50x.html {
-		root   html;
-	}
+    listen       80;
+    server_name  dev-api.paascloud.net;
+    location ~ {
+        proxy_pass   http://localhost:7979;
+    }
+    error_page   500 502 503 504  /50x.html;
+    location = /50x.html {
+        root   html;
+    }
 }
 ```
 
@@ -88,6 +88,18 @@ server {
 4. paascloud-gateway
 5. 剩下微服务无启动数序要求
 ```
+
+# 数据库脚本和三方Jar包
+
+csdn最低上传是2分，大家见谅！
+
+```
+https://download.csdn.net/download/liu_zhaoming/10296447
+```
+
+
+
+
 
 
 
