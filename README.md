@@ -110,20 +110,20 @@ Spring Cloud 爱好者,现就任于鲜易供应链平台研发部.
 
 ```
 后端项目：https://github.com/paascloud/paascloud-master 
-         https://gitee.com/passcloud/paascloud-master
+         https://gitee.com/paascloud/paascloud-master
 登录入口：https://github.com/paascloud/paascloud-login-web
-         https://gitee.com/passcloud/paascloud-login-web
+         https://gitee.com/paascloud/paascloud-login-web
 后端入口：https://github.com/paascloud/paascloud-admin-web
-         https://gitee.com/passcloud/paascloud-admin-web
+         https://gitee.com/paascloud/paascloud-admin-web
 前端入口：https://github.com/paascloud/paascloud-mall-web
-         https://gitee.com/passcloud/paascloud-mall-web
+         https://gitee.com/paascloud/paascloud-mall-web
 ```
 
 ### 传送门
 
-* 博客 [http://bolg.paascloud.net](http://bolg.paascloud.net)
+* 博客 [http://blog.paascloud.net](http://bolg.paascloud.net)
 * paascloud-admin: [http://admin.paascloud.net](http://admin.paascloud.net)
-* paascloud-mall: [http://mall.paascloud.ent](http://mall.paascloud.ent)
+* paascloud-mall: [http://mall.paascloud.](http://mall.paascloud.ent)net
 * paascloud-api: [http://api.paascloud.xin](http://api.paascloud.xin)
 * paascloud-document: [http://document.paascloud.net](http://document.paascloud.net)
 * github: [https://github.com/paascloud](https://github.com/paascloud)
