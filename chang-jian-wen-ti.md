@@ -16,5 +16,11 @@ https://gitee.com/passcloud/paascloud-master/issues/IIEP5
 https://github.com/paascloud/elastic-job-lite-starter-master
 ```
 
+* 配置非对称加密
+
+```
+http://blog.paascloud.net/2018/03/25/springcloud/config/springcloud-config-encrypt/
+```
+
 
 
